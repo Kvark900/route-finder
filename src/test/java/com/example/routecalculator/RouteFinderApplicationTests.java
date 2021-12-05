@@ -41,7 +41,7 @@ class RouteFinderApplicationTests
 	}
 
 	@Test
-	void routeTest()
+	void shouldReturnOK()
 	{
 		assertDoesNotThrow(
 				() -> {
