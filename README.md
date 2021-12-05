@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/mledoze/countries/master/countries.json
 
 
 ### Starting application
-The application uses Spring Boot and in memory so it is easy to run.  You can start it any of a few ways:
+The application uses Spring Boot and so it is easy to run.  You can start it any of a few ways:
 
 - Run the main method from `RouteCalculatorApplication`
 - Use the Maven Spring Boot plugin: `mvn spring-boot:run`
